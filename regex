@@ -1,0 +1,2 @@
+// get a line without '\n'
+([\s\S]*(toString)[\s\S]*)
